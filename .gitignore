@@ -1,0 +1,23 @@
+2D pixel asteroids/
+Anim/
+2D Pixel Spaceship - Two Small Ships/
+Crehera/
+FX/
+Joystick Pack/
+LeanTween/
+prefab/
+Resources/
+Sci-Fi UI/
+ShootingSound/
+Smoke/
+Sounds/
+StarfieldMaterials/
+Universe Sounds Free Pack/
+White Black GUI/
+Builds/
+Asteroids.aab
+Assets/Scripts/AdsInitializer.cs
+Assets/Scripts/AdsManager.cs
+*.zip
+*.aab
+*.apk
