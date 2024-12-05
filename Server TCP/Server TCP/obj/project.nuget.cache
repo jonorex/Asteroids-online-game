@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EIIO7cz8eWbO8HAmxqNnPu+P+v2UfZEWbCXalFAs2x61HagGKad1OjYthj39DFQ9DrJ5F/SG4slelMC7CGxGcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaov\\source\\repos\\Server TCP\\Server TCP\\Server TCP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaov\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

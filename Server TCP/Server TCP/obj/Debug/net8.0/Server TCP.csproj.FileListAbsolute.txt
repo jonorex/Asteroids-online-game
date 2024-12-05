@@ -1,0 +1,17 @@
+C:\Users\joaov\source\repos\Server TCP\Server TCP\bin\Debug\net8.0\Server TCP.exe
+C:\Users\joaov\source\repos\Server TCP\Server TCP\bin\Debug\net8.0\Server TCP.deps.json
+C:\Users\joaov\source\repos\Server TCP\Server TCP\bin\Debug\net8.0\Server TCP.runtimeconfig.json
+C:\Users\joaov\source\repos\Server TCP\Server TCP\bin\Debug\net8.0\Server TCP.dll
+C:\Users\joaov\source\repos\Server TCP\Server TCP\bin\Debug\net8.0\Server TCP.pdb
+C:\Users\joaov\source\repos\Server TCP\Server TCP\obj\Debug\net8.0\Server TCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\source\repos\Server TCP\Server TCP\obj\Debug\net8.0\Server TCP.AssemblyInfoInputs.cache
+C:\Users\joaov\source\repos\Server TCP\Server TCP\obj\Debug\net8.0\Server TCP.AssemblyInfo.cs
+C:\Users\joaov\source\repos\Server TCP\Server TCP\obj\Debug\net8.0\Server TCP.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\Server TCP\Server TCP\obj\Debug\net8.0\Server TCP.dll
+C:\Users\joaov\source\repos\Server TCP\Server TCP\obj\Debug\net8.0\refint\Server TCP.dll
+C:\Users\joaov\source\repos\Server TCP\Server TCP\obj\Debug\net8.0\Server TCP.pdb
+C:\Users\joaov\source\repos\Server TCP\Server TCP\obj\Debug\net8.0\Server TCP.genruntimeconfig.cache
+C:\Users\joaov\source\repos\Server TCP\Server TCP\obj\Debug\net8.0\ref\Server TCP.dll
+C:\Users\joaov\source\repos\Server TCP\Server TCP\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\joaov\source\repos\Server TCP\Server TCP\obj\Debug\net8.0\Server TCP.csproj.AssemblyReference.cache
+C:\Users\joaov\source\repos\Server TCP\Server TCP\obj\Debug\net8.0\Server TCP.csproj.Up2Date
