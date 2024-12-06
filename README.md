@@ -30,18 +30,18 @@
 
 <p>A implementação do Asteroids online destaca o uso de sockets TCP para gerenciar a comunicação entre os clientes e o servidor, garantindo a sincronização das ações e eventos durante as partidas. Este relatório detalha as etapas de desenvolvimento, desde a concepção da ideia até a implementação técnica, abordando os desafios e soluções encontrados ao longo do processo.</p>
 
-#Tipos de mensagens
+# Tipos de mensagens
 
--YI - Your ID: Usada para o servidor enviar ao jogador conectado o seu ID
--NP - New Player: Notifica outros jogadores sobre o id de um novo jogador
--Ship: Nave selecionada pelo jogador (e com isso o servidor notifica a todos)
--Ready: enviada pelo jogador (cliente) quando o botão play é clicado
--Start: enviada pelo servidor para que o jogo seja iniciado simultaneamente
--TA - Contagem total de asteroides: enviada pelos jogadores ao servidor conforme seus asteroides são gerados. 
--AC - Contagem dos asteroides abatidos: enviada pelos jogadores ao servidor conforme os asteroides são quebrados 
+- YI - Your ID: Usada para o servidor enviar ao jogador conectado o seu ID
+- NP - New Player: Notifica outros jogadores sobre o id de um novo jogador
+- Ship: Nave selecionada pelo jogador (e com isso o servidor notifica a todos)
+- Ready: enviada pelo jogador (cliente) quando o botão play é clicado
+- Start: enviada pelo servidor para que o jogo seja iniciado simultaneamente
+- TA - Contagem total de asteroides: enviada pelos jogadores ao servidor conforme seus asteroides são gerados. 
+- AC - Contagem dos asteroides abatidos: enviada pelos jogadores ao servidor conforme os asteroides são quebrados 
 -Over: Enviada para o servidor quando o jogador perde o jogo.
 
-#Diagrama de sequência
+# Diagrama de sequência
 
 <p align="center">
   <img src="Diagrama de sequencia.png" alt="Descrição da Imagem">
